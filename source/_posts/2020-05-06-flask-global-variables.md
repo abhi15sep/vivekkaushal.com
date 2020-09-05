@@ -6,8 +6,8 @@ categories:
 - Full-Stack
 tags:
 - Flask
-cover:
-thumbnail:
+cover: images/flask.png
+thumbnail: images/flask.png
 ---
 
 The usage of the *global* keyword in pythonic development is discouraged, and for good reasons. It often becomes troublesome to keep track of global variable usage and assignment as the code file grows, and is almost  impossible in very large code files. This creates issues in debugging, reading and understanding the functionality of different code blocks and understanding the workflow of the application under consideration.

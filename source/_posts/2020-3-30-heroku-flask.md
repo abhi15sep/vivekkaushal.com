@@ -7,8 +7,8 @@ categories:
 - Full-Stack
 tags:
 - Flask
-cover:
-thumbnail:
+cover: images/flask_heroku.jpeg
+thumbnail: images/flask_heroku.jpeg
 ---
 
 Heroku is a popular application deployment platform with a functional free tier of services, and Flask is populalar application development micro-framework in Python. The Heroku-Flask environment is one of the quickest ways to deploy a small application for testing, yet sadly, I did not find a single tutorial that covered all aspects of the deployment process without leaving room for a whole bunch of errors.

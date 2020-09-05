@@ -6,8 +6,8 @@ categories:
 - MLOps
 tags:
 - Machine Learning
-cover:
-thumbnail:
+cover: images/spark.png
+thumbnail: images/spark.png
 ---
 
 Deploying a machine learning model built with Apache Spark isn't as straight forward as the deployment of a PyTorch model or a TF model. Especially when you're planning on having  a REST API for inference requests. One way of going about it is use [MLeap](https://mleap-docs.combust.ml/), but that would require modifications to training code, as MLeap relies on it's own serialization.

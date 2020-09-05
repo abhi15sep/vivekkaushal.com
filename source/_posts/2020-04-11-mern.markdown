@@ -6,8 +6,8 @@ categories:
 - Full-Stack
 tags:
 - MERN
-cover:
-thumbnail:
+cover: images/mern.jpg
+thumbnail: images/mern.jpg
 ---
 
 MERN Stack implies the usage of the following technologies for full stack development:

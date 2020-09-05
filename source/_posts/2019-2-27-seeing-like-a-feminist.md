@@ -5,8 +5,8 @@ categories:
 - Book Review
 tags: 
 - Society
-cover:
-thumbnail:
+cover: images/seeing_like_a_feminist.jpg
+thumbnail: images/seeing_like_a_feminist.jpg
 ---
 ```
 Book    : Seeing Like A Feminist

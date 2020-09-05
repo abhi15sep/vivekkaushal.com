@@ -7,8 +7,8 @@ categories:
 tags: 
 - MERN
 - Heroku
-cover:
-thumbnail:
+cover: images/mern_heroku.jpg
+thumbnail: images/mern_heroku.jpg
 ---
 
 This post builds upon the guide to developing projects in MERN stack that I posted a while back, you can find it [here](https://kaushalvivek.github.io/2020-04-11-mern/). 
