@@ -31,7 +31,7 @@ head:
         author: Vivek Kaushal
         # Page description (og:description) (optional)
         # You should leave this blank for most of the time
-        description: Personal blog
+        description: A blog on technology, travel and ideas.
         # Twitter card type (twitter:card)
         twitter_card: 
         # Twitter ID (twitter:creator)
